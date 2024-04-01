@@ -1,3 +1,3 @@
-const calculateNumber = (a, b) => {
-    console.log(a + b);
+function calculateNumbers(a, b) {
+  return a + b;
 }
